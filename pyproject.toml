@@ -1,0 +1,12 @@
+[project]
+name = "featureengineering"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "numpy>=2.5.5",
+    "pandas>=3.1.1",
+    "seaborn>=0.13.2",
+]
